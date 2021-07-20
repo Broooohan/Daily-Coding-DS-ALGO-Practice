@@ -6,7 +6,8 @@
     
     So Probability of victory will be c / n for first variant and (n - c + 1) / n for second.
      
-     And Don't Forget to create a different Case for n=1
+     And Don't Forget to create a different case for n=1
+
 */
 
 
